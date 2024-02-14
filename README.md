@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/skurtipek" target="blank"><img src="https://img.shields.io/twitter/follow/skurtipek?logo=twitter&style=for-the-badge" alt="skurtipek" /></a> </p>
 
-- 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg**](**https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg**)
+- 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/channel/UCd8rnOyNq5kMkIOGsRgvQcQ**)
 
-- 💬 I have experience about **Computer Vision, Robotics and Deep Learning**
+- 💬 I have experience on **Computer Vision, Robotics and Deep Learning**
 
 - 📫 If any question you can write email to me **skurtipek@gmail.com**
 
