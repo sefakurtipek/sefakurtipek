@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sefa Kurtipek</h1>
-<h3 align="center">I am Computer Vision and Machine Learning Engineer.</h3>
+<h3 align="center">I am a Computer Vision and Machine Learning Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="sefakurtipek" /> </p>
 
