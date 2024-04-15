@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="sefakurtipek" /> </p>
 
 - 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/channel/UCd8rnOyNq5kMkIOGsRgvQcQ**)
-
 - 💬 I have experience on **Computer Vision, Robotics and Deep Learning**
-
 - 📫 If any question you can write email to me **skurtipek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sefakurtipek&show_icons=true&theme=dark&locale=en" alt="sefakurtipek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefakurtipek&theme=dark" alt="sefakurtipek" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefakurtipek&layout=donut&theme=gruvbox&hide=c,jupyter%20notebook,assembly,html)](https://github.com/anuraghazra/github-readme-stats)
+
