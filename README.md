@@ -3,8 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="sefakurtipek" /> </p>
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=600&lines=Hi%2C+I'm+Sefa +Kurtipek.+A+Computer+Vision+Engineer)](https://git.io/typing-svg)
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=600&lines=Hi%2C+I'm+Sefa.+A+Software+Engineer.;Follow+the+White+Rabbit...)](https://git.io/typing-svg)
+
+---
+
   
 - 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/channel/UCd8rnOyNq5kMkIOGsRgvQcQ**)
 - 💬 I have experience on **Computer Vision, Robotics and Deep Learning**
