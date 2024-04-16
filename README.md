@@ -5,7 +5,7 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="sefakurtipek" /> </p>
 
-- 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/channel/UCd8rnOyNq5kMkIOGsRgvQcQ**)
+- 📷 I am sharing my project demos on my youtube account [**https://www.youtube.com/c/sefakurtipek**)
 - 💬 I have experience on **Computer Vision, Robotics and Deep Learning**
 - 📫 If any question you can write email to me **skurtipek@gmail.com**
 </p>
