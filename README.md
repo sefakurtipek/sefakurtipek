@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=650&lines=Hi%2C+I'm+Sefa.+Computer+Vision+%&+Machine+Learning+Engineer;No+pain!+No+gain!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=650&lines=Hi%2C+I'm+Sefa.+Computer+Vision+&+Machine+Learning+Engineer;No+pain!+No+gain!)](https://git.io/typing-svg)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="sefakurtipek" /> </p>
@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/ROS-FCC624?style=for-the-badge&logo=ros&logoColor=black"/>
+<img src="https://img.shields.io/badge/PCL?style=for-the-badge&logo=PCL&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-2CA5E0?style=for-the-badge&logo=C&logoColor=white"/>
 
 
